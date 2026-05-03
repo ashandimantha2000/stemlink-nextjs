@@ -1,10 +1,9 @@
-import Header from "./components/header"
+import Calc from "./components/Calc"
 
 function page() {
   return (
     <div>
-      <h1>this is home page</h1>
-      <Header />
+      <Calc />
     </div>
   )
 }
