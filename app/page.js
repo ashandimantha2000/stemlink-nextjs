@@ -1,9 +1,12 @@
-import Calc from "./components/Calc"
+import SecretTest from "./components/SecretTest"
+import UserForm from "./components/UserForm"
+
 
 function page() {
   return (
     <div>
-      <Calc />
+      <UserForm />
+      <SecretTest />
     </div>
   )
 }
