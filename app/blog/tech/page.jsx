@@ -1,7 +1,3 @@
-
-import Calc from '@/app/components/Calc'
-import React from 'react'
-
 function page() {
   return (
     <div>
